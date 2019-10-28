@@ -21,9 +21,7 @@ package org.japo.java.main;
  */
 public class Main {
 
-    
     public static void main(String[] args) {
-        System.out.printf("Hora de entrada:%02d:%02d\n",8,15);
+        System.out.printf("Hora de entrada:%02d:%02d\n", 8, 15);
     }
-    
 }
